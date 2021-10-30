@@ -1,0 +1,14 @@
+E:\ITMO\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\bin\Debug\ESTS.exe.config
+E:\ITMO\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\bin\Debug\ESTS.exe
+E:\ITMO\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\bin\Debug\ESTS.pdb
+E:\ITMO\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\obj\Debug\ESTS.csprojAssemblyReference.cache
+E:\ITMO\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\obj\Debug\ESTS.csproj.CoreCompileInputs.cache
+E:\ITMO\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\obj\Debug\ESTS.exe
+E:\ITMO\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\obj\Debug\ESTS.pdb
+D:\ITMO\Бакалавриат\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\bin\Debug\ESTS.exe.config
+D:\ITMO\Бакалавриат\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\bin\Debug\ESTS.exe
+D:\ITMO\Бакалавриат\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\bin\Debug\ESTS.pdb
+D:\ITMO\Бакалавриат\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\obj\Debug\ESTS.csprojAssemblyReference.cache
+D:\ITMO\Бакалавриат\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\obj\Debug\ESTS.csproj.CoreCompileInputs.cache
+D:\ITMO\Бакалавриат\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\obj\Debug\ESTS.exe
+D:\ITMO\Бакалавриат\Сем 4\ПроектированиеИнфокомм\Домашняя работа\ESTS\ESTS\obj\Debug\ESTS.pdb
